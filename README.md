@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+저는 현재 제 게임을 만드는 중이라 매우 바쁩니다.
+
+아래 링크에서 개발일지를 확인해주세요.
+
+https://twitter.com/1209_devlog
+
 <!--
 **adunStudio/adunstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
