@@ -4,9 +4,12 @@
 
 아래 링크에서 개발일지를 확인해주세요.
 
-https://twitter.com/1209_devlog
+:video_game: https://twitter.com/1209_devlog
 
-개인 블로그
+
+
+---
+:blue_book: 개인 블로그
 
 https://boycoding.tistory.com
 
