@@ -8,7 +8,7 @@ https://twitter.com/1209_devlog
 
 개인 블로그
 
-https://boycoding.tistory.com/
+https://boycoding.tistory.com
 
 <!--
 **adunStudio/adunstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
