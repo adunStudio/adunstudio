@@ -2,7 +2,8 @@
 
 현재 제 게임을 만드는 중이라 '방치'중입니다.
 
-:video_game: [피그 슬레이어즈: 방치형 키우기 RPG](https://play.google.com/store/apps/details?id=com.mongilmongilgames.pigslayers&hl=ko)
+🤖 [피그 슬레이어즈: 방치형 키우기 RPG for Android](https://play.google.com/store/apps/details?id=com.mongilmongilgames.pigslayers&hl=ko)
+🍏 [피그 슬레이어즈: 방치형 키우기 RPG for iOS](https://apps.apple.com/kr/app/%ED%94%BC%EA%B7%B8-%EC%8A%AC%EB%A0%88%EC%9D%B4%EC%96%B4%EC%A6%88-%EB%B0%A9%EC%B9%98%ED%98%95-%ED%82%A4%EC%9A%B0%EA%B8%B0-rpg/id1622193483)
 
 
 
