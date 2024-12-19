@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-현재 제 게임을 만드는 중이라 매우 바쁩니다.
+현재 제 게임을 만드는 중이라 '방치'중입니다.
 
-아래 링크에서 개발일지를 확인해주세요.
-
-:video_game: https://twitter.com/1209_devlog
+:video_game: [피그 슬레이어즈: 방치형 키우기 RPG](https://play.google.com/store/apps/details?id=com.mongilmongilgames.pigslayers&hl=ko)
 
 
 
